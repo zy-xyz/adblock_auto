@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 4GhESNgu18AGtm4Jp1QDHw
+! Checksum: gIdE6eJg/fNW9H6FvbKqhw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250110162958
+! Version: 20250111003000
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-10 16:29:58
-! Total Count: 29713
+! Last modified: 2025-01-11 00:30:00
+! Total Count: 29720
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -816,8 +816,6 @@
 ||51hanhua.com/2013/
 ||51hir.cyou^
 ||51img1.com/v6/my/js/bdm.js
-||51jiajiao.top/public/*/plugins/
-||51jiajiao.top/public/1/assets/js/custom/tt.
 ||51miz.com/index.php?m=Ad&
 ||51mmm.info/template/1/js/gg.js
 ||51pantu.com/pic/1598717206949.gif
@@ -4623,6 +4621,7 @@
 ||bhaoea.cn^
 ||bhcnmrn.icu^
 ||bhcumsc.com^$third-party
+||bhegilut.com^
 ||bhfdgdounv.xyz^
 ||bhhzlax.xyz^
 ||bhiagi.xyz^
@@ -13270,6 +13269,7 @@
 ||oschina.net/promotion/
 ||oschina.net/uploads/ad/
 ||oschina.net/uploads/cooperation/
+||osdxx.com^
 ||oshaq.top^
 ||osisk.com^
 ||oslbahk.top^
@@ -14115,6 +14115,7 @@
 ||pwrgcxaj.icu^
 ||pwxlbsie.icu^
 ||px.adhigh.net^
+||pxhuiben.com^
 ||pxqqytk.icu^
 ||pxrs6.cn^
 ||pxtjfmv.xyz^
@@ -15016,6 +15017,7 @@
 ||s65m.win^
 ||s7tu.com/images/*.gif
 ||s8.pw^$third-party
+||s83.fun^
 ||s8bbs.com/ad/
 ||s8bbs.com/g.php?
 ||sa.sina.cn^
@@ -16049,6 +16051,8 @@
 ||suibiankan.co/Runtime/Js/
 ||suibianlu.com/zb_users/ad/
 ||suibianlu.com/zb_users/theme/tx_fzy/script/zhao.js
+||suidodo.com/public/*/plugins/
+||suidodo.com/public/1/assets/js/custom/tt.
 ||suiyishop.cn/zhuangxiu_
 ||sukneyu.com^
 ||sulkycook.com^$third-party
@@ -18226,6 +18230,7 @@
 ||xcf-bd-js.chuimg.com^
 ||xchina.*/ad/
 ||xchina.*/plugins/jquery.modal/
+||xchina.*/plugins/sweetAlert2/
 ||xchina.click/upload/*.webp
 ||xchina.co/redirect/ad-
 ||xchina.co/scripts/push_*.js
@@ -26648,6 +26653,8 @@ zle.com$script
 ##.adpc
 ##.adpcc
 ##.adppc
+##.adpvc
+##.adpwc
 ##.ads > #video_playr_sider
 ##.ads > a > img[src*=".sinaimg."]
 ##.ads > img
