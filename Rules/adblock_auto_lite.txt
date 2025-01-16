@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sYTaqQtUCPqZqdeFb0ot/A
+! Checksum: 6DWjGO/QehJHC5Xh3Uy2vQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250116094436
+! Version: 20250116162829
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-16 09:44:36
+! Last modified: 2025-01-16 16:28:29
 ! Total Count: 29773
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -768,6 +768,7 @@
 ||4gamers.com.tw/site/api/aols/media?
 ||4gamers.com.tw/site/iframe-aols/
 ||4gtv.tv/4gTV_OTT.json
+||4gu.fun^
 ||4hw.com.cn/js/common.js
 ||4i1.icu^
 ||4imk5.online^
@@ -14663,7 +14664,6 @@
 ||rdxqbp.xyz^
 ||re.taotaosou.com^
 ||reacdf311.cn^
-||reachableads-av.*.amazonaws.com^
 ||read*.me/app/*.js$script
 ||readingguilt.com^$third-party
 ||readymoon.com^$third-party
