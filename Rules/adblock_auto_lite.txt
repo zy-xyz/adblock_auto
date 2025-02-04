@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: v/RPEhOOUqU8baZbJDGJOA
+! Checksum: qcMuHdQbbfrGtOufX84N5A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250204002850
+! Version: 20250204094437
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-02-04 00:28:50
-! Total Count: 29909
+! Last modified: 2025-02-04 09:44:37
+! Total Count: 29916
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6097,6 +6097,7 @@
 ||crlsxny.xyz^
 ||crnmyrk.icu^
 ||crodfnyk.xyz^
+||crolerl.com^
 ||crookedcreature.com^$third-party
 ||crossboardmobile.com^
 ||crosspromo*.qplaze.com/PushCampaignXMLOut.php
@@ -9845,6 +9846,7 @@
 ||ilxdh.com/navig/2020-09-08/1599538164_1474.png
 ||ilzies.com^
 ||im*-tub-ru.yandex.net^$domain=russian-porn.ru
+||im.1vkx.cn/uploads/images/*.gif$third-party
 ||im.51yaliesha.com^$third-party
 ||im.ov.yahoo.co.jp^
 ||im286.net/286/
@@ -16437,6 +16439,7 @@
 ||tcfgtd.xyz^
 ||tcgaqh.icu^
 ||tcheeter.com^
+||tciqgx.xyz^
 ||tclimii.top^
 ||tcmap.com.cn/js/b_
 ||tctltb.com^
@@ -17872,6 +17875,7 @@
 ||vxinzheng.xyz^$third-party
 ||vxotu.com/i/*.gif
 ||vxpdfb.xyz^
+||vxpnld.icu^
 ||vxvtzx.xyz^
 ||vydbvp.xyz^
 ||vydqknuy.xyz^
@@ -28286,6 +28290,9 @@ zle.com$script
 ##body.desktop[style^="-"] span[class*=" "] > a[href^="http"][rel="nofollow"][target="_blank"]
 ##body.page > .popup
 ##body[onload*="u()"] > #x
+##body[onresize="stopDebugger()"][onbeforecopy="return!1"] > div#root div.m0auto > div > div.grid + div > div:empty
+##body[onresize="stopDebugger()"][onbeforecopy="return!1"] > div#root div:has(> img[src$=".gif"])
+##body[onresize="stopDebugger()"][onbeforecopy="return!1"] > div#root div[id^="notice_modal"]
 ##body[ontouchstart] > #topBox
 ##body[ontouchstart] > .wrap > div[id^="content_"][style="display: block;"]
 ##body[ontouchstart] > div[id^="content_"][style="display: block;"]
