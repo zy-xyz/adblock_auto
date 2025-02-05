@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: adSrHVGU7fKAUVGmS9RYUg
+! Checksum: 632aB0MCHzTnKTIlADA/Lw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250205162849
+! Version: 20250206003002
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-02-05 16:28:49
-! Total Count: 29925
+! Last modified: 2025-02-06 00:30:02
+! Total Count: 29931
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3330,6 +3330,8 @@
 ||adx-dre.op.hicloud.com^
 ||adx-exchange.toast.com^
 ||adx-open-service.youku.com^
+||adx-os.bridgeoos.com^
+||adx-sg-req.bridgeoos.com^
 ||adx-t.com^$popup
 ||adx-tk.rayjump.com^
 ||adx.36kr.com^
@@ -3857,6 +3859,7 @@
 ||api.appnxt.net^
 ||api.bilibili.com/x/ad/
 ||api.bitmango.com/api/ad_manager
+||api.bridgeoos.com^
 ||api.brs.intl.miui.com^
 ||api.cloudmobi.net
 ||api.dmcdn.net/all.js$domain=gotv.ctitv.com.tw
@@ -3864,6 +3867,7 @@
 ||api.fusepowered.com^
 ||api.hh.ru/banners_targeting
 ||api.itpub.cloud^
+||api.kickoffo.site^
 ||api.kostprice.com/api/amp-widget$domain=m.gadgets.ndtv.com
 ||api.live.bilibili.com/*/Banner
 ||api.mediation.amberweather.com^
@@ -5899,6 +5903,7 @@
 ||code.bizdirlib.com^
 ||code.ditiezu.net^
 ||code.piano.io/api/tinypass.min.js$domain=delfi.lv
+||code.wenbanzhu.com^
 ||codeceo.com/images/*/boxuegu
 ||codeceo.com/images/2020/04/kaikebabanner.png
 ||codejie.net/img/xiandai.gif
@@ -13285,6 +13290,7 @@
 ||omgnqu.xyz^
 ||omheth.com^
 ||omkxes.xyz^
+||ommatht.com^
 ||omniscientfeeling.com^$third-party
 ||omxwt.cn^
 ||omzxutfm.com^
