@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +SJ3JuiIM17RcirzbVwRQA
+! Checksum: JdL26uDMZPyM+JYkJlqz7A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250305095116
+! Version: 20250305163159
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-03-05 09:51:16
+! Last modified: 2025-03-05 16:31:59
 ! Total Count: 29702
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -365,7 +365,6 @@
 ||1905.com/data/js/*.json?pwd=*?fr=videoplay_*&rand=$xmlhttprequest
 ||1909.me/upload/ad/
 ||192.151.218.66^$third-party
-||192.luyouwang.com^
 ||194.59.220.161^
 ||199.180.100.185/love44^
 ||1990tu.com/i/*.gif
@@ -11715,6 +11714,7 @@
 ||lu.lindhf4.com^$~third-party
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
+||lu2.luyouwang.com^
 ||lu228.com/ajs/
 ||luckyforworlds.com^
 ||ludicrousarch.com^$third-party
