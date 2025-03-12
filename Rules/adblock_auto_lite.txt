@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: cw9+pwm/6O66qU2YJNLK8w
+! Checksum: pXIFEPcEWh+qdiPvEReGFw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250312095126
+! Version: 20250312163249
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-03-12 09:51:26
-! Total Count: 29752
+! Last modified: 2025-03-12 16:32:49
+! Total Count: 29759
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -467,6 +467,7 @@
 ||2345.com/duoteimg/img/*_ad_
 ||2345.com/dypcimg/*gameRecommend.js
 ||2345.com/dypcimg/ads/
+||2345.com/guess/v1/adList
 ||2345.com/images/activity/20180618/search-actimg
 ||2345.com/images/m/global/new-hongbao/
 ||2345.com/js/index/activity/
@@ -5677,6 +5678,7 @@
 ||cidianwang.com/js/zdtop.js
 ||cifyeldf.top^
 ||cifzuqopdpzi.com^
+||cigoqcq.top^
 ||cilimao.*/amaod/
 ||cimg.cnyes.cool/prod/adContent/$image
 ||cinemabonus.com^$third-party
@@ -13083,6 +13085,7 @@
 ||oaftaijo.net^$third-party
 ||oaihiiacb.com^
 ||oaiqksi.top^
+||oajv.cn^
 ||oakmn.top^
 ||oalmbmf.xyz^
 ||oapyrzde.xyz^
@@ -15132,6 +15135,7 @@
 ||sbovgy.xyz^
 ||sbpb1.chuiyue.com^
 ||sbpb1.qulishi.com^
+||sbqg7jylmzsym.top^
 ||sc-gov-cn.website^
 ||sc.smardroid.com^
 ||sc126.com^
@@ -19735,6 +19739,7 @@ adultlingeriepics.com,adultlingeriepics.com,adultspankingtgp.com,allfeetporn.com
 afrsmartinvestor.com.au,afternoondc.in,allmovie.com,allmusic.com,bolnews.com,brw.com.au,capital.bg,fetishshrine.com,gq.co.za,imageupscaler.com,javhay.net,katestube.com,mja.com.au,ocregister.com,online-convert.com,orangecounty.com,petrolplaza.com,pornicom.com,premier.org.uk,premierchristianity.com,premierchristianradio.com,premiergospel.org.uk,radio.com,sidereel.com,sleazyneasy.com,tubsexer.*,vikiporn.com,wankoz.com,yourdictionary.com##.advertising
 agedbeauty.net,data18.com,imgdrive.net,pornpics.com,pornpics.de,vipergirls.to##a[href*="/go/"]
 airplaydirect.com,americaoutloud.com,bigeye.ug,completesports.com,cryptomining-blog.com,cryptoreporter.info,dotsauce.com,espnrichmond.com,flsentinel.com,forexmt4indicators.com,freedomhacker.net,gamblingnewsmagazine.com,gameplayinside.com,goodcarbadcar.net,kenyabuzz.com,kiwiblog.co.nz,mature.community,mature.mom,mauitime.com,milf.community,milf.mom,milf.plus,milf.sexy,mkvcage.com,movin100.com,mycolumbuspower.com,naijaloaded.com.ng,newzimbabwe.com,onislandtimes.com,ouo.press,pornhub.com,punchng.com,reviewparking.com,robhasawebsite.com,sacobserver.com,seguintoday.com,sports.sexy,themediaonline.co.za,theolivepress.es,therep.co.za,thewillnigeria.com,tntribune.com,wantedinafrica.com,wantedinrome.com,wschronicle.com##img[width="300"]
+ak.sv###ignielAdBlock
 al4a.com##a[href^="http://as.sexad.net"]
 alensat.org,forummikrotik.ru###phpbb-ads-ab
 alexfilm.cc##.panel-primary
@@ -29551,6 +29556,8 @@ zle.com$script
 @@||ad.doubleclick.net/*/adi/com.ytbc/$domain=youtube.com
 @@||adserver.juicyads.com/js/jads.js$domain=netflav.com
 @@||ajax.googleapis.com/ajax/libs/jquery$domain=gaypornwave.com
+@@||ak.sv^$generichide
+@@||al-aqsanews.com
 @@||alwingulla.com/88/tag.min.js$domain=darkino.online
 @@||ams.cdn.arkadiumhosted.com/assets/arena-4/arena/heap/advertisements.js$script,domain=jeux.lemonde.fr
 @@||anidub.com/ads.js|$script,domain=anidub.com
