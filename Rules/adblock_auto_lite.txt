@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: GeS78IMJmXDPp4MIVMMeLA
+! Checksum: mpD4bhK+NXRfnt2CXS14UQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250315003010
+! Version: 20250315095011
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-03-15 00:30:10
-! Total Count: 29779
+! Last modified: 2025-03-15 09:50:11
+! Total Count: 29784
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3520,6 +3520,7 @@
 ||ajtdumo.cn^$third-party
 ||ajucem.xyz^
 ||ajybgc.xyz^
+||ak03150hou.com^
 ||ak0gsh40.com^$third-party
 ||ak530.com/js/*.js
 ||akabebe.com/jgg/*.gif
@@ -8767,6 +8768,7 @@
 ||guojitv.com/m/js/ad_
 ||guokr.com/baidu-cbjs/
 ||guqoinly.com^
+||guqransoq.com^
 ||guqsqfmi.com^
 ||guqu.net/Cooperate/
 ||gustocooking.com^$third-party
@@ -11449,6 +11451,7 @@
 ||lfjslil.top^
 ||lfjtiuy.cn^
 ||lfrdskwj.icu^
+||lftcph.icu^
 ||lftpvh.xyz^
 ||lfxozd.xyz^
 ||lfzk2cp.icu^
@@ -12579,6 +12582,7 @@
 ||mvo.g45td.xyz^
 ||mvpqrydt.xyz^
 ||mvwitz.xyz^
+||mvxh.cn^
 ||mvxz.com/bar3.js
 ||mvxz.com/boximg/
 ||mvxz.com/img/
@@ -28129,6 +28133,7 @@ zle.com$script
 ##body > [style$="width:9.6vw;height:8.5vw;background:#000;opacity:0.01;"]
 ##body > [style*="position:fixed; bottom:0vw; left:0vw; z-index:"]
 ##body > [style^="display: block; z-index: 2147483647; width: 10%;"][style$="!important;"]
+##body > div#inplayer[align="center"]
 ##body > div[class$="c"][style="bottom: 135px;"]
 ##body > div[class$="h"][style="bottom: 135px;"]
 ##body > div[class$="m"][style="display: block; width: 100%; height: 135px;"]
