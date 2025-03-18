@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: whavThBhoFPRWQUINALfIw
+! Checksum: HDr+5CLbE6k8Rrc4HyotGQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250318095337
+! Version: 20250318163222
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-03-18 09:53:37
-! Total Count: 29856
+! Last modified: 2025-03-18 16:32:22
+! Total Count: 29861
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -17726,6 +17726,7 @@
 ||vlgkotr.cn^
 ||vlion.cn^$third-party
 ||vljjtj.xyz^
+||vljkjx.top^
 ||vlujojf.icu^
 ||vm5apis.com^
 ||vmap.v.ad-generation.jp^
@@ -18848,6 +18849,7 @@
 ||y7ts.icu^
 ||ya*.dwstatic.com^
 ||yaacdn.com/static/js/*.js$script
+||yaaumqa.top^
 ||yac5t.cn^
 ||yadro.ru^
 ||yads.c.yimg.jp/js/yads-async.js$script,redirect=noop.js,important,domain=map.yahoo.co.jp
@@ -20356,6 +20358,7 @@ finget.ru,katalog-aktsii.ru,rp5.by,rp5.kz,rp5.ru,sms24.info,sms24.me,vikings-war
 flightradar24.com###bottomRightPanel
 flightradar24.com###responsiveBottomPanel
 forced-tube.net,hqasianporn.org##.coverup
+forum-xiaomi.com##div[style="background: rgba(0, 0, 0, 0.9); display: block;"]
 forum.flprog.ru###phpbb_announcement
 forum.pcastuces.com##div > [src] + [id] + [class][style^="display: block;"]
 forum.qrz.ru,life.ru,mastergrad.com,rtlxl.nl,wallpapershome.ru##.adblock
@@ -21621,6 +21624,7 @@ reallifecamsex.xyz#$##video_player_container { display:inline!important; }
 reallifecamsex.xyz#?#.col-md-sidebar > .widget > .pm-section-head > h2:contains(Advertisment)
 realpornclips.com##.embed-aside
 realpornclips.com#?#.main > div.container > h2:contains(Advertisement)
+rediafile.com##.protection:not(body)
 redtube.com###as_131
 redtube.com###pornstars_list > ul#recommended_pornstars_block > li:not([data-pornstar-id])
 redtube.com###slidePanelContainerAB
@@ -29732,6 +29736,7 @@ zle.com$script
 @@||manwa*/static/custom/files/300X250.gif
 @@||media.trafficjunky.net/js/holiday-promo.js$domain=redtube.com|redtube.net|tube8.com|youporn.com|youporn.fyi
 @@||mix.sina.com.cn^
+@@||mon-maire.fr^$generichide
 @@||naiadsystems.com/*/hls/live$domain=pornhub.com|pornhub.org|pornhub.net
 @@||nouvelle-fiat500.fr/ad-pub.js$script
 @@||numerama.com/ads.js
