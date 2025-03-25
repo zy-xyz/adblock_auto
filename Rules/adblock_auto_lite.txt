@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: cm8Z8BykNY3nND5jaUvmkQ
+! Checksum: 3gYVZUTozihTNgJ3x/gwCA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250325003254
+! Version: 20250325095650
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-03-25 00:32:54
-! Total Count: 29909
+! Last modified: 2025-03-25 09:56:50
+! Total Count: 29911
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -13678,6 +13678,7 @@
 ||phjtxx.xyz^
 ||phk.nmkstcrt.xyz^
 ||phluant.com^
+||phorralut.com^
 ||photo.*.html?tk=$script,third-party
 ||photo.*/native?tk=$third-party
 ||photo.bscy05.cn^$third-party
@@ -29767,6 +29768,7 @@ zle.com$script
 @@||gstatic.com/cv/js/sender/*/cast_sender.js$domain=pornhub.com|pornhub.org|pornhub.net
 @@||guokr.com/apis/flowingboard/item/guokrapp_
 @@||guokr.com/apis/flowingboard/item/m_
+@@||haxnode.net^$generichide
 @@||hdnumerique.com/tpl/jscript/advert.js
 @@||hellporno.net/_a_ht/s/s/js/ssu.v2.js
 @@||hellporno.net/_a_ht/s/s/su.php?
