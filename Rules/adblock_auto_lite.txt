@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nJ4cZ1Yp87eqG2FYVs5EEQ
+! Checksum: UzsLCZz3cslucYNbAF5mUg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250405162908
+! Version: 20250406002918
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-04-05 16:29:08
-! Total Count: 29850
+! Last modified: 2025-04-06 00:29:18
+! Total Count: 29856
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3787,6 +3787,7 @@
 ||anythinktech.com^
 ||anyunwl04.com^
 ||anywlan.com/link/*.gif
+||anzeretp.com^
 ||ao1*kas.top/$script,third-party
 ||ao1118kas.top^
 ||ao1120kas.top^
@@ -4353,6 +4354,8 @@
 ||bannerwall.herewetest.com^
 ||bannerwall.s3.appcnt.com^
 ||banquetunarmedgrater.com^$script
+||banzhu33333.net/js/cdn.
+||banzhu33333.net/js/html
 ||baofeng.com/images/yiqi
 ||baojia.steelcn.cn/images/$object
 ||baoliny.com/js/jing.js
@@ -4695,6 +4698,7 @@
 ||bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 ||bimnodstz.com^
 ||binarycrest.com^$third-party
+||bing.com/AdsFetch?
 ||bing001.shop^
 ||bing003.shop^
 ||bing005.shop^
@@ -10317,6 +10321,7 @@
 ||jetlwsa.top^
 ||jevwdao.cn^
 ||jewruta.top^
+||jeyd.cn^
 ||jfanhao.com^
 ||jfiacyg.cn^$document
 ||jfiacyg.cn^$~third-party
@@ -27310,6 +27315,7 @@ zle.com$script
 ##.playtop.col-pd
 ##.playtopad
 ##.plc > .a_p
+##.pop.pop-bottom
 ##.pop[style="right: 10px;"]
 ##.popup + .shortcuts-m-overlay
 ##.popup + .shortcuts-mobile-overlay
