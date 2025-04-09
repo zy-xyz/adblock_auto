@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Ru2hkmQLhK7TCqQ5IIqO+Q
+! Checksum: GSaD4r4FV5OvOKLJ0rggBA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250409003253
+! Version: 20250409095555
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-04-09 00:32:53
-! Total Count: 29879
+! Last modified: 2025-04-09 09:55:55
+! Total Count: 29883
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10188,6 +10188,7 @@
 ||ix4.icu^
 ||ixbua.xyz^
 ||ixkw3.cc/wp-content/themes/wpMyTube/assets/js/mobile.
+||ixoe.cn^
 ||ixstng.cn^
 ||ixsw.org/*/*.js
 ||ixtu.cn^
@@ -12762,6 +12763,7 @@
 ||nba55.cc^
 ||nbcollect.kugou.com^
 ||nbcollectretry.kugou.com^
+||nbdtdt.icu^
 ||nbegame.com/nbeos/*.jpg
 ||nbfsvreu.icu^
 ||nbhixt.xyz^
@@ -17417,6 +17419,7 @@
 ||uu9735uu.com^
 ||uuaisp.com^
 ||uuajq.top^
+||uucatiqnd.com^
 ||uugtv.com/x/app/videoSpread?
 ||uuiaoq.top^
 ||uuishsa.com^
@@ -28226,6 +28229,7 @@ zle.com$script
 ##body > [style*="position:fixed; bottom:0vw; left:0vw; z-index:"]
 ##body > [style^="display: block; z-index: 2147483647; width: 10%;"][style$="!important;"]
 ##body > div#inplayer[align="center"]
+##body > div.dbfh
 ##body > div.zdhf
 ##body > div[class$="c"][style="bottom: 135px;"]
 ##body > div[class$="h"][style="bottom: 135px;"]
