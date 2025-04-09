@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: u6tLpZfeEMeO0880uAvNjw
+! Checksum: TowQYT2EmqXv5I2l7liiRw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250409163854
+! Version: 20250410003349
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-04-09 16:38:54
-! Total Count: 29884
+! Last modified: 2025-04-10 00:33:49
+! Total Count: 29887
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7365,6 +7365,7 @@
 ||en8848.com.cn/js/content.
 ||en8848.com.cn/js/lianxi.js
 ||enahmy.xyz^
+||enbg.cn^
 ||enchantedskyline.com^$third-party
 ||enchantingdiscovery.com^$third-party
 ||enchantingenchantment.com^$third-party
@@ -17603,6 +17604,7 @@
 ||vevhjj.xyz^
 ||vewdk.cyou^
 ||vexilorath.com^
+||vezeqzyb.com^
 ||vezvpd.xyz^
 ||vfdvdfv77.fun^
 ||vfdvdg67.fun^
@@ -28232,6 +28234,7 @@ zle.com$script
 ##body > div#inplayer[align="center"]
 ##body > div.dbfh
 ##body > div.zdhf
+##body > div.zdhf ~ div[style$=";background: #000;opacity:0.01;"]
 ##body > div[class$="c"][style="bottom: 135px;"]
 ##body > div[class$="h"][style="bottom: 135px;"]
 ##body > div[class$="m"][style="display: block; width: 100%; height: 135px;"]
