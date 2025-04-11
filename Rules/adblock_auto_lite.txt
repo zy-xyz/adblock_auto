@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /Koj8KURYMXEZw5hTPaZnA
+! Checksum: yJtNCmMv4kkMY97eso7Z8A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250411095643
+! Version: 20250411163342
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-04-11 09:56:43
-! Total Count: 29905
+! Last modified: 2025-04-11 16:33:42
+! Total Count: 29910
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4359,6 +4359,10 @@
 ||bannerwall.herewetest.com^
 ||bannerwall.s3.appcnt.com^
 ||banquetunarmedgrater.com^$script
+||banzhu*.com/js/cdn.js$~third-party
+||banzhu*.com/js/html*.js$~third-party
+||banzhu*.net/js/cdn.js$~third-party
+||banzhu*.net/js/html*.js$~third-party
 ||banzhu33333.net/js/cdn.
 ||banzhu33333.net/js/html
 ||baofeng.com/images/yiqi
@@ -10506,6 +10510,7 @@
 ||jmesxbe.icu^
 ||jmhfw.com/index.php?/ajax/get_adv/
 ||jmhngn.com^
+||jmif.cn^
 ||jmipzsn.icu^
 ||jmpnrh.xyz^
 ||jmty.jp/s/geniee/
