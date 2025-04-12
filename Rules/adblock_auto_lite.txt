@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 0/5JewDgHm8Umn08DQ++Wg
+! Checksum: mHXB9jC1WZBQyxQvKugLeg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250412162957
+! Version: 20250413002913
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-04-12 16:29:57
-! Total Count: 29921
+! Last modified: 2025-04-13 00:29:13
+! Total Count: 29924
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11225,6 +11225,7 @@
 ||kvkcei.xyz^
 ||kvmaa.com^
 ||kvpqrydt.xyz^
+||kvqp.cn^
 ||kvskknklssv.com^
 ||kvsvug.xyz^
 ||kvtfff.top^$third-party
@@ -13212,6 +13213,7 @@
 ||okbd2ou.icu^
 ||okbmf.com/imgad/
 ||okbmf.com^*950_120
+||okeaxgugq.com^
 ||okikwul.icu^
 ||okiterk.top^
 ||okkazeo.com/img/habillage/banner/
@@ -20388,7 +20390,7 @@ fanyi.baidu.com##.app-bar
 fanyi.baidu.com##.bottom-intro
 fanyi.baidu.com##[class^="jifeng-"]
 fapality.com,felizporno.com##.fluid_html_on_pause.fluid-b-container
-fapnado.com,scrolller.com,young-sexy.com##.popup
+fapnado.com,young-sexy.com##.popup
 faptor.com,truyen-hentai.com,darknessporn.com,familyporner.com,freepublicporn.com,pisshamster.com,punishworld.com,xanimu.com,javvideoporn.com,hqbang.com,hentai2w.com,hot-sex-tube.com,javtsunami.com,fastpic.org,fetishshrine.com,gaytail.com,zubby.com,hentaiarena.com,saradahentai.com,anysex.com,ytboob.com,multporn.net,fapnado.com,tube-bunny.com,yespornpleasexxx.com,fux.com,fetish-bb.com,porndollz.com,xxxextreme.org,eporner.com,hotgirlclub.com,freepornvid.net,pandamovies.me,thehentaiworld.com,trueimg.xyz,jizz.us,pornhd.com,tubsexer.com,besthugecocks.com,pornomotor.org,sundukporno.com,zalupok.com,animeon.moe,xxxmaturevideos.com,daftporn.com,get-to.link,imgtorrnt.in,pornyfap.com,rumporn.com,soyoungteens.com##+js(addEventListener-defuser, getexoloader)
 faptube.com,gotxx.net,javmilf.xyz,redtub.club,spermogon.com,pornopics.site,men4menporn.eu,gayzerhd.club,hdporn-movies.com,pornpapa.com,gettubetv.com,crownimg.com##+js(addEventListener-defuser, load, popMagic)
 faptube.xyz,hqpornstream.com,magicaltube.com##.spot-block
@@ -21713,6 +21715,7 @@ savevideo.me##div[id^="ads_notice_"]
 savevideo.me##td > div[class]:not([id])[style*="important"]
 sbdm.net##div#vodshare
 scantrad.net##.adbon
+scrolller.com#?#.popup--sticky:-abp-contains(adblock)
 sd-company.su###dom_adblock
 sdamgia.ru##.S29e4f5cdae
 sdamgia.ru##div[style^="text-align:center; color:red;"][style*="font-size:16px"]
