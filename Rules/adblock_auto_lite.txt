@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: yogqT2na/1y1YBK02dAlYQ
+! Checksum: ej9ubZvhjc9/9UXy4uXRAA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250422163505
+! Version: 20250423003229
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-04-22 16:35:05
-! Total Count: 30026
+! Last modified: 2025-04-23 00:32:29
+! Total Count: 30036
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -830,6 +830,7 @@
 ||51cdn.club:453/hf85/960x
 ||51credit.com/51api/creditcard.php?mod=
 ||51credit.com/js/app/end-layer.js
+||51dxs.com^
 ||51fanli.net/misc/images/invite-v4/banner.gif
 ||51gugu.com/popwin/AutoHAdShow.aspx
 ||51gugu.com^$third-party
@@ -1332,6 +1333,7 @@
 ||91friend.com^$third-party
 ||91hs005.xyz^*.gif
 ||91jbz.com/file/script/A
+||91ks.online^
 ||91nrtt.com/vod/
 ||91p20.space/fans/
 ||91rb.com/fc/$image
@@ -5665,6 +5667,7 @@
 ||chnuuee.xyz^
 ||chnvgdkw.xyz^
 ||chok8.com/statics/ad/
+||cholurd.com^
 ||chonaesor.com^
 ||chong-wu.net^
 ||chongdiantou.com/wp-content/uploads/2019/02/pzb.jpg
@@ -6618,6 +6621,7 @@
 ||dherea.site^
 ||dhgfhedxx.xyz^
 ||dhievvienr.com^
+||dhimphits.com^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
 ||dhkqqe.top^
@@ -11840,6 +11844,7 @@
 ||ludicrousarch.com^$third-party
 ||ludie.xyz^
 ||ludpa.xyz^
+||lui8426.xyz^
 ||lumberamount.com^$third-party
 ||luminousboulevard.com^$third-party
 ||lumnxiel.top^
@@ -14671,6 +14676,7 @@
 ||qwe0231141.bj.bcebos.com^
 ||qweisiy.top^
 ||qweizay.top^
+||qwerhao3.com^
 ||qwerioy.top^
 ||qwesaz.com^
 ||qwfbiujsknjk.com^
@@ -17276,6 +17282,7 @@
 ||ubifyc.xyz^
 ||ubiquitousyard.com^$third-party
 ||ubmcvideo.baidustatic.com^
+||ubudhal.com^
 ||uc*.atobo.com^
 ||uc129.com/images/top_hjsj.jpg
 ||uc129.com/m/
@@ -17592,6 +17599,7 @@
 ||uym11.xyz^
 ||uymahuxv.xyz^
 ||uyohyy.xyz^
+||uypg.cn^
 ||uyq3ruf.icu^
 ||uyretut.top^
 ||uysdxmo.com^
@@ -18380,6 +18388,7 @@
 ||wtroytj33.fun^
 ||wubizigeng.com^
 ||wucnmte.top^
+||wucnwte.top^
 ||wudizuqiu.com/fy
 ||wudizuqiu.com/img/dasai8/ybbj.png
 ||wuepo.cn^
@@ -27948,6 +27957,7 @@ zle.com$script
 ##a[href*=".kekexc.com/"]
 ##a[href*=".labsda.com"]
 ##a[href*=".las88889999.com:"]
+##a[href*=".lui8426.xyz"]
 ##a[href*=".lvdou.life/"][target="_blank"]
 ##a[href*=".mhtimes.cn"]
 ##a[href*=".mmrjmh.com/"]
@@ -28373,7 +28383,6 @@ zle.com$script
 ##body > div#inplayer[align="center"]
 ##body > div.dbfh
 ##body > div.zdhf
-##body > div.zdhf ~ div[style$=";background: #000;opacity:0.01;"]
 ##body > div[class$="c"][style="bottom: 135px;"]
 ##body > div[class$="h"][style="bottom: 135px;"]
 ##body > div[class$="m"][style="display: block; width: 100%; height: 135px;"]
@@ -28384,6 +28393,7 @@ zle.com$script
 ##body > div[class][style^="display: block; width: 100%; left: 0px; position: fixed; z-index: 2147"][style$="top: 135px;"]
 ##body > div[class][style^="display: block; width: 100%; left: 0px; position: fixed; z-index: 21474"]
 ##body > div[id][style="display: block; width: 100%; position: relative; height: 127.188px; margin: 0px; padding: 0px; border: 0px none; background: none;"]
+##body > div[style$=";background: #000;opacity:0.01;"]
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
 ##body > div[style="width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !important; flex-flow: row wrap !important; background: rgb(255, 255, 255) !important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important;"]
 ##body > embed[id][src*="://"][src$="="]
