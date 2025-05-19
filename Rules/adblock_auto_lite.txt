@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: YXzz7oPOEazQMxWCt0TCHg
+! Checksum: c4zbH1mny7r5h9KNXMMC1w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250519163702
+! Version: 20250520003353
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-05-19 16:37:02
-! Total Count: 30005
+! Last modified: 2025-05-20 00:33:53
+! Total Count: 30012
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3449,6 +3449,7 @@
 ||ahoy-internal-ads-hv.b-cdn.net^
 ||ahporntube.com^
 ||ahpphkc.xyz^
+||ahqihkm.top^
 ||ahuys.net/Runtime/js/
 ||ahuys.net/sys
 ||ai.bioon.com^
@@ -7491,6 +7492,7 @@
 ||etallkiq.com^
 ||etargetnet.com^
 ||etbh.cn^
+||etdggwj.top^
 ||etest8.com/js/158/infojs/
 ||etf88.com/jjb/*_ad$script
 ||etf88.com/swf/
@@ -14456,6 +14458,7 @@
 ||qizhihaotian.com^*.js
 ||qjekt0c.xyz^
 ||qjimtyy.top^
+||qjlo.cn^
 ||qjoges.xyz^
 ||qjoqos.xyz^
 ||qjuy.cn^
@@ -14763,6 +14766,7 @@
 ||rc.ie13.com^
 ||rcblfd.xyz^
 ||rcdwhp.xyz^
+||rcilgeill.com^
 ||rcnithgm.xyz^
 ||rcnldz.xyz^
 ||rd.autohome.com.cn^
@@ -15069,6 +15073,7 @@
 ||ruanyifeng.com/9he/
 ||rubmdu.top^
 ||rudenx.xyz^
+||rudhjah.top^
 ||rugao35.com/Public/config/Couplet/Index
 ||ruguoapp.com^$domain=aixiaoju.com
 ||ruian.com/img/2016/a1-6-1.gif
@@ -18058,6 +18063,7 @@
 ||wbkdsg.xyz^
 ||wbnhqq.com^
 ||wbnlwyj.xyz^
+||wbqhehokmy.com^
 ||wbqosw.xyz^
 ||wbqqo.com^$third-party
 ||wbupbv.com^
@@ -28839,6 +28845,7 @@ zle.com$script
 ##script + #rbbox
 ##script + #strl
 ##script + #strl + div[style]
+##script + .dbfh
 ##script + .header_rmb
 ##script + [id][style="width:100%;height:auto;min-height:120px;position:relative;display:block;"]
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
