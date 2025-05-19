@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +3NZJEfzB17RgK0Sj/77zw
+! Checksum: YXzz7oPOEazQMxWCt0TCHg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250519100851
+! Version: 20250519163702
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-05-19 10:08:51
-! Total Count: 29995
+! Last modified: 2025-05-19 16:37:02
+! Total Count: 30005
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1062,6 +1062,7 @@
 ||68287zubo85737.com^
 ||6888i.top^
 ||688aaa.us^
+||68s4eyiru.com^
 ||68yscw.com^
 ||693836.com^$popup
 ||6969aa.cn^
@@ -2230,6 +2231,7 @@
 ||adfreewatch.info^$popup
 ||adfrika.com^$third-party
 ||adfrontiers.com^
+||adfsda005.xyz^
 ||adfsda005.xyz^$third-party
 ||adfstat.yandex.ru^
 ||adfusion.com^
@@ -11421,6 +11423,7 @@
 ||ldjnbn.xyz^
 ||ldmnq.com^$third-party,badfilter
 ||ldoshbl.top^
+||ldrerirbuaou.com^
 ||ldvnehc.xyz^
 ||ldxinb.xyz^
 ||le4le.com^
@@ -13558,6 +13561,7 @@
 ||pavoshare.com
 ||pazz.xyz^
 ||pb.shuxigua.com^
+||pbgufjylmzsym.top^
 ||pbmp.ali213.net/js/
 ||pbtsjh.xyz^
 ||pbtxt.win^
@@ -15105,6 +15109,7 @@
 ||rvxsvwqf.icu^
 ||rvzlobj.cn^
 ||rwarwf.icu^
+||rwbqll.top^
 ||rwdjrn.icu^
 ||rwefsw55.com^
 ||rwftzx.xyz^
@@ -18520,6 +18525,7 @@
 ||xcwdcynb.icu^
 ||xcysqq.com^
 ||xdcad.net/source/plugin/disad/disad.js
+||xdea.cn^
 ||xdf.cn/v4/js/leyus/
 ||xdfdqce.xyz^
 ||xdh0808.com^$popup
@@ -26985,6 +26991,7 @@ zle.com$script
 ##.apd-footer
 ##.apd-home
 ##.apd-right
+##.app > .app_tj
 ##.app > div.app_tj
 ##.app-down-fix.body-fix
 ##.appdownload_ad + .hider
@@ -28325,7 +28332,10 @@ zle.com$script
 ##body .has-ad
 ##body > #app > .adv-frame
 ##body > #showcloneshengxiaon
+##body > .app + #htmlContenthtml
+##body > .dbfh
 ##body > .ec-ad
+##body > .zdhf
 ##body > [style$="background-size: 407px 101px !important;"]
 ##body > [style$="background-size: 407px 104px !important;"]
 ##body > [style$="background-size: 407px 127.188px !important;"]
