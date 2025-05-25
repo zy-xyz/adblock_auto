@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: G/ZXI3SbNDUnhfQJAL7YDQ
+! Checksum: LVDWQJm83JqiEf5IlqZpzg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250525101326
+! Version: 20250525163140
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-05-25 10:13:26
-! Total Count: 30071
+! Last modified: 2025-05-25 16:31:40
+! Total Count: 30082
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -701,6 +701,7 @@
 ||3dwwwgame.com^$third-party
 ||3er88wn.com^
 ||3fa20230512.live^
+||3ff6kjylmjs.top^
 ||3g.cn/baidualading/
 ||3g.cn/index.php?s=Index/adv&
 ||3g.qq.com/lview?
@@ -1084,6 +1085,7 @@
 ||6ft8a.icu^
 ||6gcstb.xyz^
 ||6gute.icu^
+||6gxs.net/js/
 ||6h1cz.xyz^
 ||6iwoif.com^
 ||6japaneseporn.com/func.js
@@ -4669,6 +4671,7 @@
 ||bgdgpbpm.xyz^
 ||bgdizsay.icu^
 ||bgeg1.fun^
+||bgf05251lko.com^
 ||bghebf.xyz^
 ||bhaelkaers.com^
 ||bhaelnieth.com^
@@ -6352,6 +6355,7 @@
 ||dalipan.com/api/taobao
 ||dalld.xyz^
 ||dalmfn.xyz^
+||dalofq.top^
 ||damagedadvice.com^$third-party
 ||damageddistance.com^$third-party
 ||damagedroll.com^$third-party
@@ -9794,6 +9798,7 @@
 ||igao17.com/need/h5.js
 ||igaworks.com/AdPOPcorn/
 ||iggbky.xyz^
+||iggdf88.com^
 ||igkgag.xyz^
 ||ih336.com^*a.js
 ||ihais.com^
@@ -10934,6 +10939,7 @@
 ||katoleiy.com^
 ||katyporn.net/*/jspopup.js
 ||kaurieseluxate.com^
+||kayege.org/js/
 ||kb-render.alicdn.com/html/*.html
 ||kb5ke.xyz^
 ||kbayke.xyz^
@@ -12417,6 +12423,7 @@
 ||mmeimh.xyz/static/100.
 ||mmeimh.xyz/static/images/
 ||mmiedf.xyz^
+||mmkkkkk.com^
 ||mmn811.top^
 ||mmonly.cc/js/mmonlyAPP.js
 ||mmp001.scalemonk.com^
@@ -18180,6 +18187,7 @@
 ||weilekangnet.com:59188/wz/vod_shang.js
 ||weilekangnet.com:59188/wz/wz.js
 ||weiqu.cyou^
+||weitietl.com^
 ||weixiaoke.top^
 ||weiyuedu.cc/skin/v3/js/dibu.js
 ||weiyun.com/cgi-bin/tianshu_get?position=4&
@@ -19030,6 +19038,7 @@
 ||y0o.fun^
 ||y1.junshitt.com^
 ||y1.spreton.com^
+||y1n1n3e0v.com^
 ||y2ax5.y0tf2wp.online^$third-party
 ||y341i.xyz^
 ||y3cdp.top^
@@ -27567,6 +27576,7 @@ zle.com$script
 ##.rotate-adv
 ##.row > .gao-bg
 ##.row > div.colVideoList:has(> div.video-elem > a[target="_blank"])
+##.row.nav-bottom + div[style^="display: block; position: relative; width: 0px; height:"]
 ##.rtcenter_game
 ##.s.u.m.o.me.scrollbox-popup
 ##.samBannerUnit
@@ -28205,6 +28215,7 @@ zle.com$script
 ##a[href*="?shareName="][target="_blank"]
 ##a[href*="AdCode_"][target="_blank"]
 ##a[href*="AdsCode_"][target="_blank"]
+##a[href*="aHR0cHM6Ly9xc2Z2bDExLmFsYXp2LmNvbS8zNzA4Lmh0bWw="]
 ##a[href*="app:"] > img[src]
 ##a[href*="b2pk.com/b/a/d/"][href*=".php?"] > img
 ##a[href*="bjty"] > img[src*="imgsrc.baidu.com"]
