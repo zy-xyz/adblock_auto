@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: MszLHbSCh+Twh9q0SGGXdw
+! Checksum: diUQPcXVgcu5d4AhCO+o2A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250607163222
+! Version: 20250608003201
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-06-07 16:32:22
-! Total Count: 30040
+! Last modified: 2025-06-08 00:32:01
+! Total Count: 30041
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -752,7 +752,6 @@
 ||415677.com^
 ||41grk.icu^
 ||4275.com/css/91kf.
-||4275.com/css/91kf.gif
 ||42cao.com/ckplay/js.jpg
 ||4399.com/baiduad/
 ||4399.com/jss/*coup.js
@@ -6449,6 +6448,7 @@
 ||dddstew6cw8.fun^
 ||ddgjjj.com^$third-party
 ||ddhjabqe.icu^
+||ddjs5wde2.com^
 ||ddkep.xyz^
 ||ddkh59.com^
 ||ddlipf.xyz^
@@ -6992,6 +6992,7 @@
 ||dstbunkfw.xyz^
 ||dsukqsx.icu^
 ||dt0j.icu^
+||dtauda3232.top^
 ||dtdqpc.top^
 ||dtjcvd.icu^
 ||dtjhtp.xyz^
@@ -9675,6 +9676,7 @@
 ||iciclle.com^
 ||icinmao.top^
 ||icinvdo.top^
+||icjl.cn^
 ||ickd.cn/mobile/js/touch
 ||iclimio.top^
 ||icnkr.com/cnkradv/
@@ -17326,6 +17328,7 @@
 ||ufz.doesxyz.com^
 ||ugajiwft.icu^
 ||ugbler.icu^
+||uggrianvo.com^
 ||ugkpsi.xyz^
 ||ugpibtpk.xyz^
 ||ugvbsrbht.xyz^
@@ -18333,6 +18336,7 @@
 ||wpadmngr.com^
 ||wpadmngr.com^$third-party,important
 ||wpdaxue.com/img/*/txy-
+||wpeo.cn^
 ||wpercent.qwertyuadf.com^
 ||wples.com/pc/common.js
 ||wpmdeo.xyz^
@@ -27024,7 +27028,6 @@ zle.com$script
 ##.apd-home
 ##.apd-right
 ##.app > .app_tj
-##.app > div.app_tj
 ##.app-down-fix.body-fix
 ##.appdownload_ad + .hider
 ##.appguide-wrap
@@ -28384,8 +28387,6 @@ zle.com$script
 ##body > [style*="position:fixed; bottom:0vw; left:0vw; z-index:"]
 ##body > [style^="display: block; z-index: 2147483647; width: 10%;"][style$="!important;"]
 ##body > div#inplayer[align="center"]
-##body > div.dbfh
-##body > div.zdhf
 ##body > div[class$="c"][style="bottom: 135px;"]
 ##body > div[class$="h"][style="bottom: 135px;"]
 ##body > div[class$="m"][style="display: block; width: 100%; height: 135px;"]
