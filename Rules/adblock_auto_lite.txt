@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: pgPF9iIHdck4MLbYItYy/w
+! Checksum: fxEmPMXlJWh6sB9eZ0ynIw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250610003516
+! Version: 20250610100822
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-06-10 00:35:16
-! Total Count: 30066
+! Last modified: 2025-06-10 10:08:22
+! Total Count: 30060
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -19,7 +19,6 @@
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
 ||*.$image,redirect=1x1.gif,third-party,domain=rmdown.com
-||*.top^$domain=ltswu.org
 ||*/ad/$redirect=noop-0.1s.mp3,domain=huaren.tv,media
 ||*ggua.xyz^$third-party
 ||*xav.*/guang/*.gif
@@ -421,7 +420,6 @@
 ||1u5gy.xyz^
 ||1vudktp.com^
 ||1weorpu.com^
-||1x5jlh.xyz^$popup
 ||1x6666.com/img/
 ||1xb.icu^
 ||1yj.icu^
@@ -786,6 +784,7 @@
 ||4ce.fun^
 ||4cjh.xyz^
 ||4cx5.icu^
+||4e9ynqm47d.com^
 ||4fr.icu^
 ||4fs3r.icu^
 ||4gamer.net/css/pr/SP_topjack.css
@@ -973,6 +972,7 @@
 ||595image.com^
 ||5976tp1.com^
 ||5axxw.com/extends/ad/
+||5azvpjx8xj.com^
 ||5brxi.icu^
 ||5d7k30pv1u.com^
 ||5dm.link/html/20240*.gif
@@ -1188,6 +1188,7 @@
 ||7mmtv.tv/js/ad_js/
 ||7mmtv.tv/u_banner/
 ||7nekc.icu^
+||7o2l520r0a.com^
 ||7ohy3f.cn^
 ||7ry30.xyz^
 ||7scs.com/Public/img/list-
@@ -1416,7 +1417,6 @@
 ||99496.com/static/
 ||99496.com/v9/head.js
 ||996000996.xyz/ga/$image,domain=yaociyuan.bid
-||996js123.com^
 ||99886aaa.com^
 ||9999961.com/JS/bofang.js
 ||9999961.com/JS/daohang.js
@@ -1515,7 +1515,6 @@
 ||a.bxwblog.cn^
 ||a.cnki.net/a/
 ||a.cookpad-ads.com^
-||a.d/adblo_ck.jpg
 ||a.dlads.cn^$third-party
 ||a.duanmeiwen.com^
 ||a.duduji.com^
@@ -1831,7 +1830,6 @@
 ||ad.22betpartners.com^$popup
 ||ad.52av.one^
 ||ad.52av.tv^
-||ad.886112.xyz^
 ||ad.a-ads.com^
 ||ad.about.co.kr^
 ||ad.aceplanet.co.kr^
@@ -5534,7 +5532,6 @@
 ||cfwlvmg.top^
 ||cfx3d.xyz^
 ||cfzhushou.com^*/King_Chance_Layer.js
-||cg-pao-tu.nanyanglk.com^
 ||cgbswl.icu^
 ||cggyyi.xyz^
 ||cgovyjnmdtauwdhek.com^
@@ -5923,6 +5920,7 @@
 ||coldbalance.com^$third-party
 ||coldcallpro.com^$third-party
 ||coldcreatives.com^$third-party
+||colkarneh.com^
 ||colorfulafterthought.com^$third-party
 ||colossalclouds.com^$third-party
 ||colossalcoat.com^$third-party
@@ -5995,7 +5993,6 @@
 ||cosmicsculptor.com^$third-party
 ||cosmo001.top^
 ||cosmo100.top^
-||cosmo202.top^
 ||cosmosjackson.com^$third-party
 ||cosouy.xyz^
 ||cosplayporntube.com/creatives/
@@ -7834,6 +7831,7 @@
 ||fgnzdb.xyz^
 ||fgo22.info^$third-party
 ||fgre9.top^
+||fgsfghn.com^
 ||fgttbz.xyz^
 ||fguhyg.cn^
 ||fgukchz.icu^
@@ -11009,7 +11007,6 @@
 ||kfocoq.xyz^
 ||kfpicimage.xyz^
 ||kfpnqug.cn^
-||kfvjdvjzhddhc.com^
 ||kfvq.cn^
 ||kfycmiu.icu^
 ||kgacp.cyou^
@@ -11536,7 +11533,6 @@
 ||lgvlbd.icu^
 ||lh168.net^*/attachment/portal/
 ||lh1dki82.com^
-||lh49dki80.com^
 ||lh54.top^
 ||lhdlbp.xyz^
 ||lhdnba.top^
@@ -12105,6 +12101,7 @@
 ||mangoporn.net/iamback.php
 ||mangoporn.net/iamfront.js
 ||mangoporn.net/see.js
+||manifest.auditude.com^
 ||manifest.auditude.com^$domain=~not_for_sdn_filter.com
 ||manqian.cn/784a6e27-be5b-4442-86e5-9f4adb51894d?
 ||manqian.cn/async/adLocationConfig
@@ -14781,6 +14778,7 @@
 ||rarbt.cc/js/index960_
 ||rardi.cyou^
 ||raresummer.com^$third-party
+||raspberry55o.com^
 ||ratedxbiz.com/d/
 ||ravzbd.xyz^
 ||rawindianporn.com/f_rawindianporn.com.js
@@ -14912,6 +14910,7 @@
 ||retrievemint.com^$third-party
 ||rett.top^
 ||revcontent.com^
+||revk.cn^
 ||rewrwrt4.fun^
 ||rexsrv.com^
 ||rexxtourist.com^$document
@@ -16192,7 +16191,6 @@
 ||stingsquirrel.com^$third-party
 ||stingyspoon.com^$third-party
 ||stnew.xyz^
-||sto.cx/skin/a_autoSize*.js
 ||stockingsleet.com^$third-party
 ||stockingsneeze.com^$third-party
 ||stockstar.com/*DUILIAN&t=
@@ -17034,7 +17032,6 @@
 ||ttzzz44.com^$~third-party
 ||tu.7j813.cn^$third-party
 ||tu.zx110.org^
-||tu0379199038.cc^
 ||tu1500919341.cc^
 ||tu2.taohuaimg.com^$third-party
 ||tu2024020388.com^
@@ -17730,7 +17727,6 @@
 ||velti.com^
 ||venea.net/web/ab_message?
 ||vengefulgrass.com^$third-party
-||vennala.pw^$redirect=noop.txt,image,media,subdocument,stylesheet,script,xmlhttprequest,other
 ||venomousvessel.com^$third-party
 ||venum.top^
 ||venusgloria.com^$third-party
@@ -18654,7 +18650,6 @@
 ||xiaopi.com/statics/skin_js/jquery.posrj.js
 ||xiaopinwo.com^
 ||xiaosaguniang.xyz^
-||xiaoshuotxt668.org^
 ||xiaoshuoyun.cn^
 ||xiaosss.ren^
 ||xiaoweixiaoshuo.com/ad/
@@ -18812,7 +18807,6 @@
 ||xn--xhq9mt12cf5v.top^$third-party
 ||xn--xhq9mt12cf5v.xn--io0a7i^$third-party
 ||xn--zw0autp42d.cn^
-||xn860wu.vlxue.cn^
 ||xnbuapwp.icu^
 ||xncwxw.me/js/xiaxuanfu.
 ||xne1ocient87zxz.360doc.cn^
@@ -19145,6 +19139,7 @@
 ||yhlzadr.xyz^
 ||yhmeinv.com/mh/
 ||yhnvgdkw.xyz^
+||yhsbgm.icu^
 ||yhsdwjes.xyz^
 ||yhsfsdv03.com^
 ||yht7.com/web/assets/js/right.js
@@ -19334,7 +19329,6 @@
 ||yrszy.com.cn^
 ||yrtedzb.cn^$document
 ||yrtedzb.cn^$~third-party
-||yruadj.top^
 ||yruws6.com^
 ||ys.muhoujiemi.com^
 ||ys2000.cdn.bcebos.com^
