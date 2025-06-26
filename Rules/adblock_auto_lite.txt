@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: NvRvBAp4M0ar28mnIcUkdg
+! Checksum: XfaSRfu7BIHm21JkL6/GjQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250626163640
+! Version: 20250627003440
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-06-26 16:36:40
-! Total Count: 30282
+! Last modified: 2025-06-27 00:34:40
+! Total Count: 30284
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1266,6 +1266,7 @@
 ||87mao.com/52
 ||87uq.com^
 ||87uq.com^$third-party
+||87y8y1pz4o.com^
 ||880sy.com/Public/js/*_gg.js
 ||88148.com/UpFile/a/2016040849191350.jpg
 ||883.engine.mobileapptracking.com^
@@ -27556,6 +27557,7 @@ zle.com$script
 ##.iHead960x90
 ##.ibtad
 ##.ima-ad-container
+##.image-container > a[href*=".yangkeduo.com"]
 ##.imagegg-container
 ##.img-cctv.lazyLoad
 ##.imgBox > div[class^="ad"]
