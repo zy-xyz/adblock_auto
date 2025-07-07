@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xnaLG/wXKZ9mm1zH0eln8w
+! Checksum: U3RWOutJzLfXV8mLu1OHXg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250707163826
+! Version: 20250708003528
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-07-07 16:38:26
-! Total Count: 30403
+! Last modified: 2025-07-08 00:35:28
+! Total Count: 30406
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5525,6 +5525,7 @@
 ||cdn5.cartoonporn.to^
 ||cdn77.org^*.mp4$badfilter
 ||cdn77.org^*.mp4|
+||cdn77.org^*.mp4|$badfilter
 ||cdn93d99x0e.23bei.com^
 ||cdncg.com^*/Aepku
 ||cdncg.com^*/FCPXku.
@@ -8010,6 +8011,7 @@
 ||fiu07060kl.com^
 ||fiu07061kl.com^
 ||fiu07070kl.com^
+||fiu07071kl.com^
 ||fivesidedsquare.com^$third-party
 ||fixedfold.com^$third-party
 ||fj.sina.com.cn/iframe/63/
@@ -12347,6 +12349,7 @@
 ||maxun118.top^
 ||maxunn55.top^
 ||mb.gulongbbs.com^
+||mbaedurr.com^
 ||mbalib.com/common/a_mbalib/
 ||mbekgac.xyz^
 ||mbfhwag.xyz^
@@ -17404,7 +17407,7 @@
 ||tw.api.vpon.com^
 ||tw.beanfun.com/bfweb/NEW/commonlogin
 ||tw.buy.yahoo.com/?z=
-||tw.buy.yahoo.com/smartbanner/$domain=tw.news.yahoo.com
+||tw.buy.yahoo.com/smartbanner/$domain=tw.news.yahoo.com|tw.stock.yahoo.com
 ||tw.jav321.com^$popup,domain=ucptt.com
 ||tw.live/assets/images/fsk-0*.webp
 ||tw.partner.buy.yahoo.com^$domain=cool3c.com
