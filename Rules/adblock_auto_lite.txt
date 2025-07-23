@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: R2IyRr3Ed4sal9B2TkxsKg
+! Checksum: 5YEpm3u30Z5gnltyn++6Ng
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250723163926
+! Version: 20250724003926
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-07-23 16:39:26
+! Last modified: 2025-07-24 00:39:26
 ! Total Count: 30567
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -1005,7 +1005,8 @@
 ||5azvpjx8xj.com^
 ||5brxi.icu^
 ||5d7k30pv1u.com^
-||5dm.link/html/20240*.gif
+||5dm.link/html/$image
+||5dm.link/html5/api_aj.
 ||5dmail.net/image/$object
 ||5dmail.net/image/ORF_1000.gif
 ||5dmail.net/image/ad_
@@ -26955,7 +26956,6 @@ zle.com$script
 ###detection-block-overlay
 ###dgf_pc
 ###diads
-###dip[href*=".tmall.com"]
 ###div_top_ads
 ###dom_adblock
 ###downdiv > .downcode
