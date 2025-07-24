@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 4sFkM0dHm5mHj0oAU2HaYw
+! Checksum: nMFsDMg5svnVSN7AyYZS8g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250724102149
+! Version: 20250724163946
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-07-24 10:21:49
-! Total Count: 30572
+! Last modified: 2025-07-24 16:39:46
+! Total Count: 30576
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4175,6 +4175,7 @@
 ||auy07201km.com^
 ||auy07210km.com^
 ||auy07211km.com^
+||auy07240km.com^
 ||av-yoyo.com/images/*.gif
 ||av01.tv/av01/floating_video_ads
 ||av01.tv/images/partners/
@@ -6397,6 +6398,7 @@
 ||d67p.com/love/
 ||d7dzf.xyz^
 ||d86n.top^
+||d9q4aa05g4.com^
 ||da-ads.com^
 ||da-fan-shu.cn/images/kuaijie.jpg
 ||da.daji.com^
@@ -18673,6 +18675,7 @@
 ||wfqgfaa.cn^
 ||wfsmya.xyz^
 ||wftyehw.cn^
+||wgceetonr.com^
 ||wgzgzmu.cn^
 ||whafwl.com^
 ||whbn.xyz^
@@ -28010,7 +28013,6 @@ zle.com$script
 ##.player-box-main > .rm-one > a[start-time]
 ##.player-info > .recommend-two.recommend-list
 ##.player-news > .news-list
-##.player-rm > a[href*=".umtrack.com"]
 ##.player-rm > a[href*="/ad.html?url="]
 ##.player-rm > a[target="_blank"]
 ##.player-rm-float
@@ -28060,6 +28062,7 @@ zle.com$script
 ##.right_advert
 ##.rightadv
 ##.rightd + .leftd1
+##.rm-two > a[href*=".umtrack.com"]
 ##.rmp-ad-container
 ##.room-ad-bottom
 ##.room-ad-top
@@ -28641,6 +28644,7 @@ zle.com$script
 ##a[href*="/h91.tv"]
 ##a[href*="/hgcool360.top"]
 ##a[href*="/hgcoolaa.top"]
+##a[href*="/hs63.cc"]
 ##a[href*="/htbet1536.com"]
 ##a[href*="/hth104.com/"]
 ##a[href*="/hth107.com/"]
