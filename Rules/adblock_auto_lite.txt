@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: fXjup4vHb2sYYupamNmHnw
+! Checksum: dIglbi765b4P99ZJ7xP+IQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250725102233
+! Version: 20250725163839
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-07-25 10:22:33
-! Total Count: 30586
+! Last modified: 2025-07-25 16:38:39
+! Total Count: 30589
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4221,6 +4221,7 @@
 ||awesomeagreement.com^$third-party
 ||awestat.com^$domain=leporno.org
 ||awifi.cn^$third-party
+||awkxf8bbj.com^
 ||awoudsoo.xyz^
 ||awrfds3.pornpapa.com^
 ||awywlb89y.com^
@@ -12079,6 +12080,7 @@
 ||lrdyfz.xyz^
 ||lrlsrz.xyz^
 ||lrqpyhn.icu^
+||lrta.cn^
 ||lrtlisl.top^
 ||lrutvncl.top^
 ||lryqef.xyz^
@@ -24112,6 +24114,7 @@ $websocket,domain=4archive.org|allthetests.com|boards2go.com|colourlovers.com|fa
 /^https?:\/\/[a-z]{8,15}\.(com|net)\/tag\.min\.js$/$script,third-party,important
 /^https?:\/\/\w{30,}\.me\/\w{30,}\.js$/$script,third-party,important
 /^https?:\/\/anysex\.com\/[a-zA-Z]{1,4}\/[a-zA-Z]+\.php$/$image,script,domain=anysex.com
+/^https?:\/\/pikabu\.ru\/ajax\/[A-Za-z0-9]+\?[A-Za-z0-9]+=[0-9a-z-]+[0-9a-z]$/$xmlhttprequest,domain=pikabu.ru
 /^https?:\/\/syndication\.[a-z]{4,8}srv\.com\/splash\.php\?/$important,popup
 /^https?:\/\/www[1-3]\.doubleclick\.net\/$/$xmlhttprequest,redirect-rule=nooptext
 /^https?:\/\/www\.[a-z]{6,16}\.com\/[a-z]{1,4}\.js$/$script,third-party,important
