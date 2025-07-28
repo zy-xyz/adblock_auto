@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jAF/ukgtfk2nJXDMpj0sFA
+! Checksum: NxiWn2oGxa1vTKmCLlllOQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250728003438
+! Version: 20250728102934
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-07-28 00:34:38
-! Total Count: 30610
+! Last modified: 2025-07-28 10:29:34
+! Total Count: 30618
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1692,6 +1692,7 @@
 ||aag.yahooapis.jp^
 ||aagomsi.xyz^
 ||aaholidays.cn^
+||aai07280mu.com^
 ||aaiwuq.xyz^
 ||aaknmt.icu^
 ||aamv.vip^
@@ -6442,6 +6443,7 @@
 ||dagwi.cn^
 ||dai.siyuetian.net^
 ||dai18.mumu01.com^
+||dai9146.xyz^
 ||daiitmk.cn^
 ||dailydivision.com^$third-party
 ||dailynews.sina.com/gb/ads/
@@ -8677,6 +8679,7 @@
 ||gio07261rp.com^
 ||gio07270rp.com^
 ||gio07271rp.com^
+||gio07280rp.com^
 ||giold.xyz^
 ||giphaudoq.com^
 ||giraffepiano.com^$third-party
@@ -9291,6 +9294,7 @@
 ||hdipsumu.top^
 ||hdjthzg.cn^
 ||hdmoli.com/static/js/pop_promotion.js
+||hdmoli.pro/a_d/
 ||hdomsiu.top^
 ||hdoshbu.top^
 ||hdpdrandpd.xyz^
@@ -10036,6 +10040,7 @@
 ||ifkdy.com/ifkdy/weixin/isFollowMe
 ||iflucav.icu^
 ||ifmccdn.icu^
+||ifoh.cn^
 ||ifooday.cn/index.php?m=poster&
 ||ifqn.cn^
 ||ifunmac.com/wp-content/uploads/*/alipay-
@@ -13315,6 +13320,7 @@
 ||nhjn788.fun^
 ||nhjnw78.fun^
 ||nhur.cn^
+||nhy9i8t56f.com^
 ||nhyvhmvw.com^
 ||nhz6q.cn^
 ||nickhel.com^
@@ -15121,6 +15127,7 @@
 ||qxakzox.cn^
 ||qxaz2xcw.com^
 ||qxdx2x6kn6.com^
+||qxeymg.icu^
 ||qxn9qlvmca.com^
 ||qxrvmu.com^
 ||qxwoiv.com^
@@ -20338,6 +20345,7 @@
 ||zrkksps.icu^
 ||zrljzgs.xyz^
 ||zrrnqq.com^
+||zrzgsdocqm.com^
 ||zs.rzijjeb.cn^
 ||zsjjob.com/user/member/google.htm
 ||zsjxwj.com^
@@ -27086,7 +27094,6 @@ zle.com$script
 ###js_ads_banner_top
 ###js_ads_banner_top_slide
 ###kfpopupDiv
-###kp-hid-gb.uk-alert
 ###ks > .DaKuang
 ###kt_player>a[target="_blank"]
 ###ldgindexbuttom
@@ -28190,6 +28197,7 @@ zle.com$script
 ##.txp_ad_center
 ##.txtguanggao
 ##.ui-ad
+##.uk-container.uk-container-expand
 ##.uk-width-1-1.adbox
 ##.under-player-ad-mobile
 ##.under_player > div[class*="lg:hidden"]
