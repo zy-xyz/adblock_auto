@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: AXtnlpUFs/RgnSU1HykfGA
+! Checksum: VCVHRX+wS/Sk3jtYZNyAZw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250729164016
+! Version: 20250730003743
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-07-29 16:40:16
-! Total Count: 30635
+! Last modified: 2025-07-30 00:37:43
+! Total Count: 30636
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8537,7 +8537,6 @@
 ||gdfp.gifshow.com^
 ||gdjme27.com^
 ||gdl.i9dhjx.ru^
-||gdl.zmqdez.ru^
 ||gdmm.com*/mybt/
 ||gdmm.com/api.php?mod=js&bid=2111
 ||gdmm.com/images/leftbottom.png
@@ -20298,6 +20297,7 @@
 ||zmk.pw/zfb.png
 ||zmklhev.cn^
 ||zmpgln.icu^
+||zmqdez.ru^
 ||zmrmbc.xyz^
 ||zmvopcio.icu^
 ||zn46.com/images/*0x
@@ -27648,6 +27648,7 @@ zle.com$script
 ##.bads
 ##.baiduad
 ##.banner-ad-section
+##.banner-adv-new
 ##.banner-cctv-A2
 ##.banner-cctv-Topping
 ##.banner-cctv-style-top
@@ -28214,7 +28215,6 @@ zle.com$script
 ##.txp_ad_center
 ##.txtguanggao
 ##.ui-ad
-##.uk-container.uk-container-expand
 ##.uk-width-1-1.adbox
 ##.under-player-ad-mobile
 ##.under_player > div[class*="lg:hidden"]
@@ -29848,6 +29848,7 @@ zle.com$script
 #@#.textAd
 #@#.text_ad
 #@#.text_ads
+#@#.uk-container.uk-container-expand
 #@#.vw-header-ads-leader-board
 #@#.ws_contentAd660
 #@#[id^="google_ads_iframe"]
