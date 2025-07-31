@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: z5p1hKh/ufnyUsLTO33mhQ
+! Checksum: dyQr6dk7VcF5tNOnbAIkoA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250731003656
+! Version: 20250731102445
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-07-31 00:36:56
-! Total Count: 30650
+! Last modified: 2025-07-31 10:24:45
+! Total Count: 30658
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -13499,6 +13499,7 @@
 ||nucld.xyz^
 ||nug07300lu.com^
 ||nug07301lu.com^
+||nug07310lu.com^
 ||nuiknnf.icu^
 ||nullnorth.com^$third-party
 ||nulltm.com/adv.js
@@ -14752,6 +14753,7 @@
 ||q3rlg1flo.com^
 ||q4v3c.site^
 ||q5sn40kmp2.com^
+||q7qhlnyfx.com^
 ||q83v5haaz.com^
 ||q8q.icu^
 ||qa6z7kz5r.com^
@@ -16499,6 +16501,7 @@
 ||spoonsilk.com^$third-party
 ||sportscn.com/js/commerical
 ||sportsv.net/dist/ads/
+||sportuay.com^
 ||spotlessstamp.com^$third-party
 ||spottednoise.com^$third-party
 ||spplamt.xyz^
@@ -18964,6 +18967,7 @@
 ||wuxingruoyin.top/public/*/plugins/
 ||wuyaw.cn^
 ||wuye3d.com^
+||wuyjtew.icu^
 ||wuyunks.com/1.
 ||wvcnmte.top^
 ||wvtem.com^
@@ -19098,6 +19102,7 @@
 ||xchina.*/ad/
 ||xchina.*/plugins/jquery.modal/
 ||xchina.*/plugins/sweetAlert2/
+||xchina.*/scripts/modal/modal.js
 ||xchina.click/upload/*.webp
 ||xchina.co/redirect/ad-
 ||xchina.co/scripts/push_*.js
@@ -19822,6 +19827,7 @@
 ||yomeno.xyz^
 ||yong.chazidian.com^
 ||yongzhen8.com^
+||yopo0hx26.com^
 ||yoqqiev.top^
 ||yorkbbs.ca/crm/section/v1/get/list/open
 ||you75.youpornsexvideos.com^
@@ -27361,6 +27367,7 @@ zle.com$script
 ##._ads
 ##._cggp
 ##._ggs
+##.a-media.ex-728-90
 ##.a_2mu
 ##.a_cn
 ##.a_fl
@@ -28477,6 +28484,7 @@ zle.com$script
 ##a[class^="cvbcvxvb"][onclick="this.click();"]
 ##a[class^="root--"][href^="https://go.xlviirdr.com/"]
 ##a[clickmode="ad"]
+##a[clickmode="cpt"]
 ##a[data-track-content][data-content-name][target="_blank"]
 ##a[href$=".cc:8443"]
 ##a[href$=".html?c=adha8"][target="_blank"]
